@@ -1,7 +1,7 @@
 # Naive-Bayes-on-Amazon-fine-food-reviews
 Implementation of Naive Bayes on the Amazon fine food reviews dataset.
 
-#Introduction of dataset:
+# Introduction of dataset:
 
 Data Source: https://www.kaggle.com/snap/amazon-fine-food-reviews
 
